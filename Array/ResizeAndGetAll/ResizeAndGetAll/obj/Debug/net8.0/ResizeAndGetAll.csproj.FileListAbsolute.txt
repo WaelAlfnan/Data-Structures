@@ -1,0 +1,14 @@
+D:\Data-Structures\Array\ResizeAndGetAll\ResizeAndGetAll\obj\Debug\net8.0\ResizeAndGetAll.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data-Structures\Array\ResizeAndGetAll\ResizeAndGetAll\obj\Debug\net8.0\ResizeAndGetAll.AssemblyInfoInputs.cache
+D:\Data-Structures\Array\ResizeAndGetAll\ResizeAndGetAll\obj\Debug\net8.0\ResizeAndGetAll.AssemblyInfo.cs
+D:\Data-Structures\Array\ResizeAndGetAll\ResizeAndGetAll\obj\Debug\net8.0\ResizeAndGetAll.csproj.CoreCompileInputs.cache
+D:\Data-Structures\Array\ResizeAndGetAll\ResizeAndGetAll\bin\Debug\net8.0\ResizeAndGetAll.exe
+D:\Data-Structures\Array\ResizeAndGetAll\ResizeAndGetAll\bin\Debug\net8.0\ResizeAndGetAll.deps.json
+D:\Data-Structures\Array\ResizeAndGetAll\ResizeAndGetAll\bin\Debug\net8.0\ResizeAndGetAll.runtimeconfig.json
+D:\Data-Structures\Array\ResizeAndGetAll\ResizeAndGetAll\bin\Debug\net8.0\ResizeAndGetAll.dll
+D:\Data-Structures\Array\ResizeAndGetAll\ResizeAndGetAll\bin\Debug\net8.0\ResizeAndGetAll.pdb
+D:\Data-Structures\Array\ResizeAndGetAll\ResizeAndGetAll\obj\Debug\net8.0\ResizeAndGetAll.dll
+D:\Data-Structures\Array\ResizeAndGetAll\ResizeAndGetAll\obj\Debug\net8.0\refint\ResizeAndGetAll.dll
+D:\Data-Structures\Array\ResizeAndGetAll\ResizeAndGetAll\obj\Debug\net8.0\ResizeAndGetAll.pdb
+D:\Data-Structures\Array\ResizeAndGetAll\ResizeAndGetAll\obj\Debug\net8.0\ResizeAndGetAll.genruntimeconfig.cache
+D:\Data-Structures\Array\ResizeAndGetAll\ResizeAndGetAll\obj\Debug\net8.0\ref\ResizeAndGetAll.dll

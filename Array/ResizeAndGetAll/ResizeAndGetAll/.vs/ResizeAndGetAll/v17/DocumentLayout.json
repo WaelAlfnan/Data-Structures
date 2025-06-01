@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Data-Structures\\Array\\ResizeAndGetAll\\ResizeAndGetAll\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37375AAA-E143-47CB-933A-A08B567B21AC}|ResizeAndGetAll.csproj|d:\\data-structures\\array\\resizeandgetall\\resizeandgetall\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37375AAA-E143-47CB-933A-A08B567B21AC}|ResizeAndGetAll.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37375AAA-E143-47CB-933A-A08B567B21AC}|ResizeAndGetAll.csproj|d:\\data-structures\\array\\resizeandgetall\\resizeandgetall\\arrayimplementations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37375AAA-E143-47CB-933A-A08B567B21AC}|ResizeAndGetAll.csproj|solutionrelative:arrayimplementations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Data-Structures\\Array\\ResizeAndGetAll\\ResizeAndGetAll\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Data-Structures\\Array\\ResizeAndGetAll\\ResizeAndGetAll\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T14:36:07.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArrayImplementations.cs",
+              "DocumentMoniker": "D:\\Data-Structures\\Array\\ResizeAndGetAll\\ResizeAndGetAll\\ArrayImplementations.cs",
+              "RelativeDocumentMoniker": "ArrayImplementations.cs",
+              "ToolTip": "D:\\Data-Structures\\Array\\ResizeAndGetAll\\ResizeAndGetAll\\ArrayImplementations.cs",
+              "RelativeToolTip": "ArrayImplementations.cs",
+              "ViewState": "AgIAAAUAAABAMzMzMzM7wB4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T14:36:01.927Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
