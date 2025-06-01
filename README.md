@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the **Data Structures Implementations** repository! This repository contains various implementations of fundamental data structures in [your preferred programming language(s)]. The goal is to provide clear, efficient, and well-documented code that can be used for educational purposes, reference, or as a foundation for more complex projects.
+Welcome to the **Data Structures Implementations** repository! This repository contains various implementations of fundamental data structures in C#. The goal is to provide clear, efficient, and well-documented code that can be used for educational purposes, reference, or as a foundation for more complex projects.
 
 ## Table of Contents
 
@@ -39,7 +39,7 @@ Each data structure is implemented with detailed comments and documentation to e
 To clone this repository, use the following command:
 
 ```bash
-git clone https://github.com/yourusername/datastructures.git
+git clone https://github.com/WaelAlfnan/Data-Structures.git
 ```
 
 ## Usage
