@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Data-Structures\\LinkedList\\LinkedList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89E1941D-0197-4965-A0C3-7DE4BC22F94B}|LinkedList.csproj|d:\\data-structures\\linkedlist\\linkedlist\\linkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E1941D-0197-4965-A0C3-7DE4BC22F94B}|LinkedList.csproj|solutionrelative:linkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E1941D-0197-4965-A0C3-7DE4BC22F94B}|LinkedList.csproj|d:\\data-structures\\linkedlist\\linkedlist\\linkedlistiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E1941D-0197-4965-A0C3-7DE4BC22F94B}|LinkedList.csproj|solutionrelative:linkedlistiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E1941D-0197-4965-A0C3-7DE4BC22F94B}|LinkedList.csproj|d:\\data-structures\\linkedlist\\linkedlist\\linkedlistnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E1941D-0197-4965-A0C3-7DE4BC22F94B}|LinkedList.csproj|solutionrelative:linkedlistnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E1941D-0197-4965-A0C3-7DE4BC22F94B}|LinkedList.csproj|d:\\data-structures\\linkedlist\\linkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E1941D-0197-4965-A0C3-7DE4BC22F94B}|LinkedList.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LinkedListIterator.cs",
+              "DocumentMoniker": "D:\\Data-Structures\\LinkedList\\LinkedList\\LinkedListIterator.cs",
+              "RelativeDocumentMoniker": "LinkedListIterator.cs",
+              "ToolTip": "D:\\Data-Structures\\LinkedList\\LinkedList\\LinkedListIterator.cs",
+              "RelativeToolTip": "LinkedListIterator.cs",
+              "ViewState": "AgIAAAAAAAAA//////8PwBYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T14:56:12.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LinkedList.cs",
+              "DocumentMoniker": "D:\\Data-Structures\\LinkedList\\LinkedList\\LinkedList.cs",
+              "RelativeDocumentMoniker": "LinkedList.cs",
+              "ToolTip": "D:\\Data-Structures\\LinkedList\\LinkedList\\LinkedList.cs",
+              "RelativeToolTip": "LinkedList.cs",
+              "ViewState": "AgIAAA4AAAAAzczMzMwmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T14:05:26.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LinkedListNode.cs",
+              "DocumentMoniker": "D:\\Data-Structures\\LinkedList\\LinkedList\\LinkedListNode.cs",
+              "RelativeDocumentMoniker": "LinkedListNode.cs",
+              "ToolTip": "D:\\Data-Structures\\LinkedList\\LinkedList\\LinkedListNode.cs",
+              "RelativeToolTip": "LinkedListNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T14:05:05.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Data-Structures\\LinkedList\\LinkedList\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Data-Structures\\LinkedList\\LinkedList\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T14:04:22.915Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

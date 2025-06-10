@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ResizeAndGetAll")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1bb4ff2cf80db085cfa779d9efbc673cc34f411e")]
 [assembly: System.Reflection.AssemblyProductAttribute("ResizeAndGetAll")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ResizeAndGetAll")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
