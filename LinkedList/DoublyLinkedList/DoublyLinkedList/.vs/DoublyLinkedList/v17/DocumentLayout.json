@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Data-Structures\\LinkedList\\DoublyLinkedList\\DoublyLinkedList\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CE6B5603-1C0B-4E33-955A-7899E96C6F15}|DoublyLinkedList.csproj|d:\\data-structures\\linkedlist\\doublylinkedlist\\doublylinkedlist\\linkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE6B5603-1C0B-4E33-955A-7899E96C6F15}|DoublyLinkedList.csproj|solutionrelative:linkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CE6B5603-1C0B-4E33-955A-7899E96C6F15}|DoublyLinkedList.csproj|d:\\data-structures\\linkedlist\\doublylinkedlist\\doublylinkedlist\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE6B5603-1C0B-4E33-955A-7899E96C6F15}|DoublyLinkedList.csproj|solutionrelative:stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE6B5603-1C0B-4E33-955A-7899E96C6F15}|DoublyLinkedList.csproj|d:\\data-structures\\linkedlist\\doublylinkedlist\\doublylinkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE6B5603-1C0B-4E33-955A-7899E96C6F15}|DoublyLinkedList.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CE6B5603-1C0B-4E33-955A-7899E96C6F15}|DoublyLinkedList.csproj|d:\\data-structures\\linkedlist\\doublylinkedlist\\doublylinkedlist\\linkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE6B5603-1C0B-4E33-955A-7899E96C6F15}|DoublyLinkedList.csproj|solutionrelative:linkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CE6B5603-1C0B-4E33-955A-7899E96C6F15}|DoublyLinkedList.csproj|d:\\data-structures\\linkedlist\\doublylinkedlist\\doublylinkedlist\\linkedlistnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,6 +17,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{CE6B5603-1C0B-4E33-955A-7899E96C6F15}|DoublyLinkedList.csproj|d:\\data-structures\\linkedlist\\doublylinkedlist\\doublylinkedlist\\linkedlistiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE6B5603-1C0B-4E33-955A-7899E96C6F15}|DoublyLinkedList.csproj|solutionrelative:linkedlistiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE6B5603-1C0B-4E33-955A-7899E96C6F15}|DoublyLinkedList.csproj|d:\\data-structures\\linkedlist\\doublylinkedlist\\doublylinkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE6B5603-1C0B-4E33-955A-7899E96C6F15}|DoublyLinkedList.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,16 +42,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Stack.cs",
+              "DocumentMoniker": "D:\\Data-Structures\\LinkedList\\DoublyLinkedList\\DoublyLinkedList\\Stack.cs",
+              "RelativeDocumentMoniker": "Stack.cs",
+              "ToolTip": "D:\\Data-Structures\\LinkedList\\DoublyLinkedList\\DoublyLinkedList\\Stack.cs",
+              "RelativeToolTip": "Stack.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T17:46:37.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Data-Structures\\LinkedList\\DoublyLinkedList\\DoublyLinkedList\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Data-Structures\\LinkedList\\DoublyLinkedList\\DoublyLinkedList\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAgAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T22:51:31.036Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T22:51:31.036Z"
             },
             {
               "$type": "Document",
@@ -57,23 +73,21 @@
               "RelativeDocumentMoniker": "LinkedListIterator.cs",
               "ToolTip": "D:\\Data-Structures\\LinkedList\\DoublyLinkedList\\DoublyLinkedList\\LinkedListIterator.cs",
               "RelativeToolTip": "LinkedListIterator.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAIAywB0AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T22:31:51.365Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T22:31:51.365Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "LinkedList.cs",
               "DocumentMoniker": "D:\\Data-Structures\\LinkedList\\DoublyLinkedList\\DoublyLinkedList\\LinkedList.cs",
               "RelativeDocumentMoniker": "LinkedList.cs",
               "ToolTip": "D:\\Data-Structures\\LinkedList\\DoublyLinkedList\\DoublyLinkedList\\LinkedList.cs",
               "RelativeToolTip": "LinkedList.cs",
-              "ViewState": "AgIAAIEAAABIAAAAAAAkwI4AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T21:30:12.918Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T21:30:12.918Z"
             },
             {
               "$type": "Document",
@@ -85,8 +99,7 @@
               "RelativeToolTip": "LinkedListNode.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T21:28:25.828Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T21:28:25.828Z"
             }
           ]
         }

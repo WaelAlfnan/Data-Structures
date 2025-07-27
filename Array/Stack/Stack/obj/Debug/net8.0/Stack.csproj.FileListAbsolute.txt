@@ -1,0 +1,15 @@
+D:\Data-Structures\Array\Stack\Stack\bin\Debug\net8.0\Stack.exe
+D:\Data-Structures\Array\Stack\Stack\bin\Debug\net8.0\Stack.deps.json
+D:\Data-Structures\Array\Stack\Stack\bin\Debug\net8.0\Stack.runtimeconfig.json
+D:\Data-Structures\Array\Stack\Stack\bin\Debug\net8.0\Stack.dll
+D:\Data-Structures\Array\Stack\Stack\bin\Debug\net8.0\Stack.pdb
+D:\Data-Structures\Array\Stack\Stack\obj\Debug\net8.0\Stack.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data-Structures\Array\Stack\Stack\obj\Debug\net8.0\Stack.AssemblyInfoInputs.cache
+D:\Data-Structures\Array\Stack\Stack\obj\Debug\net8.0\Stack.AssemblyInfo.cs
+D:\Data-Structures\Array\Stack\Stack\obj\Debug\net8.0\Stack.csproj.CoreCompileInputs.cache
+D:\Data-Structures\Array\Stack\Stack\obj\Debug\net8.0\Stack.sourcelink.json
+D:\Data-Structures\Array\Stack\Stack\obj\Debug\net8.0\Stack.dll
+D:\Data-Structures\Array\Stack\Stack\obj\Debug\net8.0\refint\Stack.dll
+D:\Data-Structures\Array\Stack\Stack\obj\Debug\net8.0\Stack.pdb
+D:\Data-Structures\Array\Stack\Stack\obj\Debug\net8.0\Stack.genruntimeconfig.cache
+D:\Data-Structures\Array\Stack\Stack\obj\Debug\net8.0\ref\Stack.dll
